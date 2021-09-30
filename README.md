@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My code](https://github.io/KristaCalleja/stats-preview-card-component-main/)
-- Live Site URL: [Add live site URL here](https://kristacalleja.github.io/stats-preview-card-component-main/)
+- Live Site URL: [Live site](https://kristacalleja.github.io/stats-preview-card-component-main/)
 
 ## My process
 
